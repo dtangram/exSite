@@ -495,20 +495,24 @@ hr {
         height: 100%;
         padding: 0 !important; }
 
-.homeBck {
-  background: url(../img/exBck2.jpg) no-repeat fixed 50% 50%/cover; }
-
+/*.homeBck
+{
+	background: url(../img/exBck2.jpg) no-repeat fixed 50% 50% / cover;
+}*/
 .paraBck {
   max-width: 100%;
   height: 950px;
   position: fixed; }
 
-.safHome {
-  background: url(../img/exBck2.jpg) no-repeat fixed; }
+/*.safHome
+{
+	background: url(../img/exBck2.jpg) no-repeat fixed;
+}
 
-.ieHome {
-  background: url(../img/exBck2.jpg) no-repeat fixed 50% 50%/cover; }
-
+.ieHome
+{
+	background: url(../img/exBck2.jpg) no-repeat fixed 50% 50% / cover; 
+}*/
 #uiux {
   background-color: #C0BEC1; }
   #uiux h1 {

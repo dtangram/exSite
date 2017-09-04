@@ -149,7 +149,7 @@ $(document).ready(function()
 	
 	if (navigator.userAgent.indexOf('Safari') != -1)
 	{		
-		$("#home").addClass("safHome").removeClass("homeBck");
+		/*$("#home").addClass("safHome").removeClass("homeBck");*/
 		
 		/*uiuxThumbs1.find("a:nth-child(1) li").css({"background": "url(http://www.explosivedesigns.net/img/thumb1.jpg)", "background-position": "50% 50%", "background-size": "cover"});
 		uiuxThumbs1.find("a:nth-child(2) li").css({"background": "url(http://www.explosivedesigns.net/img/thumb2.jpg) no-repeat", "background-position": "50% 50%", "background-size": "cover"});
@@ -170,11 +170,11 @@ $(document).ready(function()
 		$("#conBck").addClass("safContact").removeClass("contactBck");
 	}
 		
-	if (navigator.userAgent.indexOf('Firefox') != -1 || navigator.userAgent.indexOf('Chrome') != -1 || navigator.userAgent.indexOf('Opera') != -1)
+	/*if (navigator.userAgent.indexOf('Firefox') != -1 || navigator.userAgent.indexOf('Chrome') != -1 || navigator.userAgent.indexOf('Opera') != -1)
 	{
 		$("#home").addClass("homeBck").removeClass("safHome");
 		$("#conBck").addClass("contactBck").removeClass("safContact");
-	}
+	}*/
 	
 	if (navigator.userAgent.indexOf('Opera') != -1)
 	{
